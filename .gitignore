@@ -2,11 +2,9 @@
 .rbenv-version
 .python-version
 .byebug_history
-.env.local
 .env.development.local
 .env.test.local
 .swp
-.vscode
 *.swo
 *.swp
 .sass-cache
@@ -59,3 +57,7 @@ yarn-debug.log*
 
 /config/credentials.yml.enc
 /config/master.key
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
+config.bat
